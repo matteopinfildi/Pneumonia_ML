@@ -1,5 +1,5 @@
 # Pneumonia_ML
-Progetto di Machine Learning. Progetto accademico realizzato per il corso di Laurea Magistrale in Cybersecurity presso l'Università di Roma Tor Vergata.
+Progetto di Machine Learning. Progetto accademico realizzato per il corso di Laurea Magistrale in Ingegneria Informatica, indirizzo Cybersecurity, presso l'Università di Roma Tor Vergata.
 
 ## Panoramica
 Questo repository contiene il codice sorgente e la relazione tecnica realizzati per il progetto dell'insegnamento di Machine Learning (A.A. 2025/2026). Il documento e il notebook forniscono una soluzione completa per la classificazione supervisionata di radiografie toraciche per la diagnosi automatizzata (Sano vs Polmonite). 
